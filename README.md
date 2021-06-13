@@ -9,5 +9,5 @@ Using this project you can have an online ordering. system for your restaurant w
 - you can check overall sales per day/totally
 - customers can filter food based on price, ingredients, date, traditional/fastfood and etc.
 - each customer has a cart and can choose payment type (online/in cash)
-- 
-....
+
+  ....
